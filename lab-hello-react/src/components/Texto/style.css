@@ -1,0 +1,37 @@
+#texto {
+  font-size: 83px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, Geneva, Tahoma, sans-serif;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  width: 650px;
+  letter-spacing: -5px;
+  margin-left: 80px;
+  margin-top: 0;
+  font-weight: bold;
+  position: relative;
+  top: -700px;
+}
+
+#textomenor {
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  position: relative;
+  top: -780px;
+  width: 400px;
+  margin-left: 85px;
+  font-weight: 100;
+  letter-spacing: -1px;
+  line-height: 30px;
+  font-weight: lighter;
+}
+
+#button {
+  margin-top: 60px;
+  width: 170px;
+  height: 75px;
+  border-radius: 7px;
+  font-size: 25px;
+  font-weight: bold;
+}
